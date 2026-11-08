@@ -68,7 +68,7 @@ headers section:
 ```X-API-Key      api-key-broadridge-demo
 ```Content-Type   application/x-ndjson
 
- **Body → raw → Text** and enter the following data:
+ Body → raw → Text and enter the following data:
 
 ```text
 {"stationName":"Hamburg","temperature":12.0}
