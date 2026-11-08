@@ -1,0 +1,2 @@
+# WeatherStationAggregationService
+Weather Station Aggregation Service
