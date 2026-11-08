@@ -1,6 +1,10 @@
 # Weather Station Aggregation Service
 
-## How to load the project: double-click the .sln file from the following location
+
+
+##How to load the project: 
+
+```double-click the .sln file from the following location
 ```WeatherStationAggregationService\WeatherStationService\WeatherStationService.sln
 
 
