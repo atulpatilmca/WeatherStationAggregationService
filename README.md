@@ -62,12 +62,11 @@ Open Postman and create a new request with the following details:
 - **Method:** POST
 - **URL:** `http://localhost:5000/api/weather/stationaggregate`
 
-Add headers:
+headers section:
 
-| Key | Value |
-|---|---|
-| X-API-Key | api-key-broadridge-demo |
-| Content-Type | application/x-ndjson |
+```Headers
+```X-API-Key      api-key-broadridge-demo
+```Content-Type   application/x-ndjson
 
  **Body → raw → Text** and enter the following data:
 
