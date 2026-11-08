@@ -2,7 +2,7 @@
 
 
 
-##How to load the project: 
+## How to load the project: 
 
 double-click the .sln file from the following location
 
